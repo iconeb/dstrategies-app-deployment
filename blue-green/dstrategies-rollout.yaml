@@ -1,8 +1,0 @@
-strategy:
-  blueGreen:
-    activeService: dstrategies-back-online
-    autoPromotionEnabled: false
-    prePromotionAnalysis:
-      templates:
-        - templateName: dstrategies-back-analysis-template
-    previewService: dstrategies-back-offline
