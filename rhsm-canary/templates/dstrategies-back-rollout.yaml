@@ -72,4 +72,3 @@ spec:
       - setWeight: 50
       - pause:
           duration: 30s
-<SET-STEPS>
